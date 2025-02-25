@@ -15,13 +15,13 @@
 
 ## 💼 Work Experience
 
-### **Software Developer** | Ketsol Solution Pvt Limited *(Apr 2024 - Present)*
+### **Software Developer** | Ketsol Private Limited *(Apr 2024 - Present)*
 - Developed an interactive **dashboard** using **React** and **FastAPI** for real-time data visualization and analytics.
 - Implemented **Docker**-containerized backend services for **scalability and streamlined deployment**.
 - Designed **real-time data streaming** with **RabbitMQ**, ensuring **instantaneous updates and notifications**.
 - Built **message queues and consumers** for efficient data distribution, enhancing system performance.
 
-### **Full Stack Developer** | Ketsol Solution Pvt Limited *(Jan 2024 - Apr 2024)*
+### **Full Stack Developer** | Ketsol Private Limited *(Jan 2024 - Apr 2024)*
 - Developed **scalable frontend applications** with **React, Next.js, JavaScript, and Tailwind CSS**.
 - Engineered backend services with **Node.js, FastAPI**, and managed databases with **SQLAlchemy (MySQL, PostgreSQL)**.
 - Implemented **secure authentication** using **JWT, OAuth2, Auth0, and HTTP-Only cookies**.
