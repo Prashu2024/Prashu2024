@@ -35,7 +35,7 @@
 ## 🎓 Education
 
 **B.Tech in Electrical and Electronics Engineering**  
-Dr. A.P.J. Abdul Kalam Technical University *(Aug 2016 - Jul 2020)*  
+Dr. A.P.J. Abdul Kalam Technical University *(2016 - 2020)*  
 
 ---
 
