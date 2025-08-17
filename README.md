@@ -15,17 +15,18 @@
 
 ## 💼 Work Experience
 
-### **Software Developer** | Ketsol Private Limited *(Apr 2024 - Present)*
+### ** Fullstack Developer | Onlygood (OGFPL) *(Jul 2025 - Present)*
+
+### **Software Developer** | Ketsol Private Limited *(Jan 2024 - Jul 2025)*
 - Developed an interactive **dashboard** using **React** and **FastAPI** for real-time data visualization and analytics.
 - Implemented **Docker**-containerized backend services for **scalability and streamlined deployment**.
 - Designed **real-time data streaming** with **RabbitMQ**, ensuring **instantaneous updates and notifications**.
 - Built **message queues and consumers** for efficient data distribution, enhancing system performance.
-
-### **Full Stack Developer** | Ketsol Private Limited *(Jan 2024 - Apr 2024)*
 - Developed **scalable frontend applications** with **React, Next.js, JavaScript, and Tailwind CSS**.
 - Engineered backend services with **Node.js, FastAPI**, and managed databases with **SQLAlchemy (MySQL, PostgreSQL)**.
 - Implemented **secure authentication** using **JWT, OAuth2, Auth0, and HTTP-Only cookies**.
 - Deployed full-stack applications by integrating **frontend frameworks** with **backend services**.
+
 
 ### **IoT Engineer Intern** | ATSC Ahmedabad *(Oct 2023 - Dec 2023)*
 - Built an **Automatic Toilet Cleaning System** using **Arduino, sensors, and automation technology**.
