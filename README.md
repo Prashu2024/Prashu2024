@@ -15,7 +15,7 @@
 
 ## 💼 Work Experience
 
-### ** Fullstack Developer | Onlygood (OGFPL) *(Jul 2025 - Present)*
+### **Fullstack Developer** | Onlygood (OGFPL) *(Jul 2025 - Present)*
 
 ### **Software Developer** | Ketsol Private Limited *(Jan 2024 - Jul 2025)*
 - Developed an interactive **dashboard** using **React** and **FastAPI** for real-time data visualization and analytics.
