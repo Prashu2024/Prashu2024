@@ -28,7 +28,7 @@
 - Deployed full-stack applications by integrating **frontend frameworks** with **backend services**.
 
 
-### **IoT Engineer Intern** | ATSC Ahmedabad *(Oct 2023 - Dec 2023)*
+### **Developer Intern** | ATSC Ahmedabad *(Oct 2023 - Dec 2023)*
 - Built an **Automatic Toilet Cleaning System** using **Arduino, sensors, and automation technology**.
 - Designed a **seat automation mechanism** with **IR sensors, proximity sensors, and servomotors**.
 - Enhanced **sensor integration and power management** for reliable automation.
