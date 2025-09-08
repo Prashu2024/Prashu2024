@@ -7,7 +7,7 @@
 ## 🛠 Tech Stack
 
 - **Languages:** C++, C, JavaScript, Java, Python, HTML, CSS
-- **Frontend:** React, Next.js, Tailwind CSS
+- **Frontend:** React, Next.js, Tailwind CSS, Angular
 - **Backend:** Node.js, FastAPI, Express.js, Docker, RabbitMQ
 - **Databases:** MySQL, PostgreSQL, SQLAlchemy ORM
 - **Libraries & Tools:** OpenCV, scikit-learn, NumPy, Matplotlib, AWS
