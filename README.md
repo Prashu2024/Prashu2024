@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Prashant Gupta
 
 🚀 **Software Developer | Full Stack Engineer**  
-📍 Pune, Maharashtra, India  
+📍 Gurugram, Haryana, India  
 📧 prashant10gpt@gmail.com  
 
 ## 🛠 Tech Stack
